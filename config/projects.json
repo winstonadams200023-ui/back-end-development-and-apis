@@ -4,13 +4,14 @@
     "dashedName": "learn-nodejs-repl",
     "isIntegrated": false,
     "isPublic": true,
-    "currentLesson": 0,
+    "currentLesson": 22,
     "runTestsOnWatch": true,
     "seedEveryLesson": false,
     "isResetEnabled": false,
     "blockingTests": null,
     "breakOnFailure": null,
-    "numberOfLessons": 23
+    "numberOfLessons": 23,
+    "completedDate": 1789845737306
   },
   {
     "id": 1,
@@ -49,14 +50,15 @@
     "isResetEnabled": false,
     "blockingTests": true,
     "breakOnFailure": true,
-    "numberOfLessons": 1
+    "numberOfLessons": 1,
+    "completedDate": 1789841081842
   },
   {
     "id": 4,
     "dashedName": "build-a-web-server",
     "isIntegrated": false,
     "isPublic": true,
-    "currentLesson": 0,
+    "currentLesson": 41,
     "runTestsOnWatch": true,
     "seedEveryLesson": true,
     "isResetEnabled": false,
